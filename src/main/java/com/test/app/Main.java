@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/test";
         String username = "root";
-        String password = "Aji123";
+        String password = "";
 
         Connection conn = null;
         Statement stmt = null;
